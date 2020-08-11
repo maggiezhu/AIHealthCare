@@ -1,6 +1,9 @@
 # AIHealthCare
 AI applications in healthcare 
 
+## Courses
+[Big Data Analytics in Healthcare](https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
+
 ## COVID-19
 
 * [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)

@@ -3,8 +3,8 @@ AI applications in healthcare
 
 ## Courses
 [Big Data Analytics in Healthcare](https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
-[Machine Learning: Unsupervised Learning] (https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
-[Artificial Intelligence] (https://www.udacity.com/course/artificial-intelligence--ud954)
+[Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+[Artificial Intelligence](https://www.udacity.com/course/artificial-intelligence--ud954)
 
 ## COVID-19
 

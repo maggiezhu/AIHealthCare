@@ -1,5 +1,5 @@
 # AIHealthCare
-AI applications in healthcare 
+AI applications in healthcare  
 Hope AI will help: To cure always, to relieve alwasy, to comfort always.
 
 ## Courses

@@ -1,5 +1,6 @@
 # AIHealthCare
 AI applications in healthcare 
+Hope AI will help: To cure always, to relieve alwasy, to comfort always.
 
 ## Courses
 * [Big Data Analytics in Healthcare](https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
